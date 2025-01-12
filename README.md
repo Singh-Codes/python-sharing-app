@@ -34,8 +34,8 @@ Before you begin, ensure you have:
 
 2. Clone repository:
    ```bash
-   git clone https://github.com/Singh-Codes/python-file-sharing.git
-   cd python-file-sharing
+   git clone https://github.com/Singh-Codes/python-sharing-app.git
+   cd python-sharing-app
    ```
 
 3. Install dependencies:
@@ -53,8 +53,8 @@ Before you begin, ensure you have:
 
 2. Clone repository:
    ```bash
-   git clone https://github.com/Singh-Codes/python-file-sharing.git
-   cd python-file-sharing
+   git clone https://github.com/Singh-Codes/python-sharing-app.git
+   cd python-sharing-app
    ```
 
 3. Install dependencies:
@@ -72,8 +72,8 @@ Before you begin, ensure you have:
 
 2. Clone repository:
    ```bash
-   git clone https://github.com/Singh-Codes/python-file-sharing.git
-   cd python-file-sharing
+   git clone https://github.com/Singh-Codes/python-sharing-app.git
+   cd python-sharing-app
    ```
 
 3. Install dependencies:
